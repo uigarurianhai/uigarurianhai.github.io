@@ -1,6 +1,6 @@
 ---
 title: Main Uigar-Urianhai page
-layout: post
+layout: default
 ---
 
 # header
